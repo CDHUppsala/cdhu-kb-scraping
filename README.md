@@ -15,7 +15,7 @@ CDHU="""\
 ||__|||__|||__|||__|||_______
 |/__\|/__\|/__\|/__\|/_______
 
- EXTRACT SOU / BEAUTIFUL SOUP
+/ EXTRACT SOU / WGET / / / / 
 """
 ```
 
